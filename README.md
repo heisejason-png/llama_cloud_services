@@ -78,3 +78,4 @@ See the [Terms of Service Here](./TOS.pdf).
 ## Get in Touch (LlamaCloud)
 
 You can get in touch with us by following our [contact link](https://www.llamaindex.ai/contact).
+Created by Jason Scott Heise
